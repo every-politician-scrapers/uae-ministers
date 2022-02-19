@@ -1,0 +1,15 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q955006,President of the United Arab Emirates,,,,,1971-12-02,,,,President of the United Arab Emirates
+Q110964248,Vice President of the United Arab Emirates,Q878,Q878,,,,,,,
+Q30101519,Prime Minister of the United Arab Emirates,Q878,Q878,,Q1153355,1971,,,,
+Q106181156,Deputy Prime Minister of the United Arab Emirates,Q878,Q878,,,1971-12-09,,,,
+Q110964264,Minister of Defence,Q878,Q878,,,,,,,
+Q106181285,Minister of Finance,Q878,Q878,,,1971-12-09,,,,
+Q110964346,Minister of Foreign Affairs and International Cooperation of the United Arab Emirates,Q878,Q878,,,,,,,
+Q110964361,Minister of Health,Q878,Q878,,,,,,,
+Q110964354,Minister of Information and Culture,Q878,Q878,,,,,,,
+Q110964305,Minister of the Interior,Q878,Q878,,,,,,,
+Q110964337,Minister of Presidential Affairs,Q878,Q878,,,,,,,
+Q28471402,Emir of Abu Dhabi,Q878,Q187712,,,,,,,
+Q110964267,Ruler of Dubai,Q878,Q878,Q106181563,,,,,,
+Q106181563,Deputy Ruler of Dubai,Q878,Q613,,,,,,,
