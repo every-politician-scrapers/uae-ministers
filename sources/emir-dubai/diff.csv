@@ -1,13 +1,5 @@
 @@,itemlabel,item,startdate,enddate
-+++,Obeid bin Said bin Rashid,Q56733545,1833-07-09,1836
-+++,Maktoum bin Butti bin Suhail,Q340197,1833-07-09,1852
-+++,Saeed bin Butti,Q344111,1852,1859
-+++,Hasher bin Maktoum,Q340171,1859,1886-11-22
-+++,Rashid bin Maktoum,Q340184,1886-11-22,1894-04-07
-+++,Maktoum bin Hasher Al Maktoum,Q340089,1894-04-07,1906-02-16
-+++,Butti bin Sohail,Q340060,1906-02-16,1912-11
-+++,Saeed bin Maktoum bin Hasher Al Maktoum,Q713801,1912-11,1929-04-15
+->,Maktoum bin Butti bin Sohal->Maktoum bin Butti bin Suhail,Q340197,1833-07-09,1852
+->,Hushur bin Maktoum->Hasher bin Maktoum,Q340171,1859,1886-11-22
+->,Maktoum bin Hushur->Maktoum bin Hasher Al Maktoum,Q340089,1894-04-07,1906-02-16
 +++,Mani bin Rashid,,1929-04-15,1929-04-18
-+++,Saeed bin Maktoum bin Hasher Al Maktoum,Q713801,1929-04-18,1958-09
-+++,Rashid bin Saeed Al Maktoum,Q733312,1958-09-10,1990-10-07
-+++,Maktoum bin Rashid Al Maktoum,Q215477,1990-10-07,2006-01-04
