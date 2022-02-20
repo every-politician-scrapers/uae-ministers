@@ -1,0 +1,120 @@
+{
+  "title": "Saud bin Rashid Al Mualla",
+  "pageID": 20934729,
+  "categories": [
+    "1952 births",
+    "Living people",
+    "Sheikhs of Umm Al Quwain",
+    "History of the United Arab Emirates",
+    "20th-century Emirati people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sheikh Saud bin Rashid Al Mualla (سعود بن راشد المعلا; born 1 October 1952; referred to as Sheikh Saud) is the ruler and head of state of the emirate of Umm Al Quwain since 2009 and a member of the Federal Supreme Council of the United Arab Emirates.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sheikh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Umm Al Quwain"
+                },
+                {
+                  "text": "Federal Supreme Council",
+                  "type": "internal",
+                  "page": "Federal Supreme Council (United Arab Emirates)"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Arab Emirates"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Saud bin Rashid Al Mualla",
+                  "Sheikh Saud"
+                ]
+              }
+            },
+            {
+              "text": "He is the son of Rashid bin Ahmad Al Mualla II and succeeded his father as monarch of Umm Al Quwain on 2 January 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rashid bin Ahmad Al Mualla II"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1952",
+          "month": "10",
+          "day": "01",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Saud bin Rashid Al Mualla"
+          },
+          "title": {
+            "text": "Sheikh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sheikh"
+              }
+            ]
+          },
+          "succession": {
+            "text": "List of ruRuler of Umm Al Quwain",
+            "links": [
+              {
+                "text": "List of ruRuler of Umm Al Quwain",
+                "type": "internal",
+                "page": "List of rulers of separate Emirates of the United Arab Emirates",
+                "anchor": "List of Rulers of the Emirate of Umm Al Quwain"
+              }
+            ]
+          },
+          "reign": {
+            "text": "2 January 2009 –present"
+          },
+          "predecessor": {
+            "text": "Rashid bin Ahmad Al Mualla II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rashid bin Ahmad Al Mualla II"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 1, 1952"
+          },
+          "house": {
+            "text": "Al Mualla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Al Mualla"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

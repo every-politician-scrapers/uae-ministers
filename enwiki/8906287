@@ -1,0 +1,208 @@
+{
+  "title": "Sultan bin Muhammad Al-Qasimi",
+  "pageID": 8906287,
+  "categories": [
+    "1939 births",
+    "Living people",
+    "Sheikhs of the Emirate of Sharjah",
+    "Alumni of Durham University",
+    "Alumni of the University of Exeter",
+    "Emirati autobiographers",
+    "House of Al Qasimi",
+    "Cairo University alumni",
+    "American University of Sharjah faculty",
+    "University of Sharjah faculty",
+    "Agricultural engineers",
+    "Commandeurs of the Ordre des Arts et des Lettres",
+    "Knights Commander of the Order of Merit of the Federal Republic of Germany",
+    "Recipients of the Bronze Wolf Award",
+    "Al Qasimia University faculty"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sultan bin Muhammad Al-Qasimi (سلطان بن محمد القاسمي; born 2 July 1939), also known as Sheikh Sultan III, is the sovereign ruler of the Emirate of Sharjah and a member of the Federal Supreme Council of the United Arab Emirates.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emirate of Sharjah"
+                },
+                {
+                  "text": "Federal Supreme Council",
+                  "type": "internal",
+                  "page": "Federal Supreme Council (United Arab Emirates)"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Arab Emirates"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sultan bin Muhammad Al-Qasimi",
+                  "Sheikh Sultan III"
+                ]
+              }
+            },
+            {
+              "text": "He has ruled Sharjah continuously since January 1972, apart from a six-day period in June 1987, during an attempted coup led by his elder brother Sheikh Abdulaziz bin Mohammed Al-Qasimi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sharjah"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdulaziz bin Mohammed Al-Qasimi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Member of the Supreme Council of the United Arab Emirates",
+          "template": "short description"
+        },
+        {
+          "date": "December 2014",
+          "template": "blp sources"
+        },
+        {
+          "date": "November 2016",
+          "template": "prose"
+        },
+        {
+          "date": "November 2016",
+          "template": "peacock"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "yes",
+          "year": "1939",
+          "month": "7",
+          "day": "2",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "File:Empfang für Sheik Qasimi, Sharjah, im Kölner Rathaus-0198.jpg"
+          },
+          "succession": {
+            "text": "Emir of Sharjah",
+            "links": [
+              {
+                "text": "Emir of Sharjah",
+                "type": "internal",
+                "page": "Sharjah (emirate)"
+              }
+            ]
+          },
+          "reign": {
+            "text": "25 January 1972 – present"
+          },
+          "predecessor": {
+            "text": "Khalid III bin Muhammad",
+            "links": [
+              {
+                "text": "Khalid III bin Muhammad",
+                "type": "internal",
+                "page": "Khalid bin Mohammed Al Qasimi"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Sultan bin Muhammed bin Sultan II bin Saqr"
+          },
+          "suc-type": {
+            "text": "Heir presumptive"
+          },
+          "full name": {
+            "text": "Sultan bin Muhammad bin Al-Qasimi\nصاحب السمو الشيخ سلطان بن محمد القاسمي",
+            "formatting": {
+              "italic": [
+                "صاحب السمو الشيخ سلطان بن محمد القاسمي"
+              ]
+            }
+          },
+          "spouse": {
+            "text": "Moza bint Salim Al Falasi\nJawahir bint Mohammed"
+          },
+          "issue": {
+            "text": "Azza bin Sultan\nMohammed bin Sultan, Crown Prince of Sharjah\nBodour bint Sultan\nNoor bint Sultan\nHoor bint Sultan\nKhalid bin Sultan",
+            "links": [
+              {
+                "text": "Azza bin Sultan",
+                "type": "internal",
+                "page": "Azza Sultan Al-Qasimi"
+              },
+              {
+                "text": "Bodour bint Sultan",
+                "type": "internal",
+                "page": "Bodour bint Sultan bin Muhammad Al Qasimi"
+              },
+              {
+                "text": "Khalid bin Sultan",
+                "type": "internal",
+                "page": "Khalid bin Sultan Al Qasimi (fashion designer)"
+              }
+            ]
+          },
+          "house": {
+            "text": "Al-Qasimi of Sharjah",
+            "links": [
+              {
+                "text": "Al-Qasimi of Sharjah",
+                "type": "internal",
+                "page": "Al-Qasimi"
+              }
+            ]
+          },
+          "father": {
+            "text": "Mohammed bin Saqr bin Khalid Al Qasimi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed bin Saqr bin Khalid Al Qasimi"
+              }
+            ]
+          },
+          "mother": {
+            "text": "Maryam bint Ghanem bin Salem Al Shamsi (1915 – 11 August 2010)"
+          },
+          "birth_date": {
+            "text": "July 2, 1939"
+          },
+          "birth_place": {
+            "text": "Sharjah, Trucial States",
+            "links": [
+              {
+                "text": "Sharjah",
+                "type": "internal",
+                "page": "Sharjah (city)"
+              },
+              {
+                "type": "internal",
+                "page": "Trucial States"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

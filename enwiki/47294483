@@ -1,0 +1,124 @@
+{
+  "title": "Abdul Rahman Mohammed Al Owais",
+  "pageID": 47294483,
+  "categories": [
+    "1967 births",
+    "Health ministers of the United Arab Emirates",
+    "Living people",
+    "United Arab Emirates University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abdul Rahman Bin Mohammed Al Owais  (1967) is the minister of Ministry of Health in the United Arab Emirates.",
+              "links": [
+                {
+                  "text": "Ministry of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (United Arab Emirates)"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Arab Emirates"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abdul Rahman Bin Mohammed Al Owais "
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A graduate of the United Arab Emirates University, Al Owais attained a bachelor's degree in Accounting and Information.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Accounting"
+                }
+              ]
+            },
+            {
+              "text": "He then became the Minister of Culture, Youth and Community Development in 2006.",
+              "links": [
+                {
+                  "text": "Minister of Culture",
+                  "type": "internal",
+                  "page": "Minister of culture"
+                }
+              ]
+            },
+            {
+              "text": "Thereafter, Al Owais was appointed as Acting Minister of Health in 2011 and served until 2013."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2013, Al Owais was appointed as Minister of Health."
+            },
+            {
+              "text": "In this capacity, he was later appointed by WHO Director-General Tedros Adhanom Ghebreyesus to serve on the Independent High-level Commission on Non-Communicable Diseases from 2018 until 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tedros Adhanom Ghebreyesus"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Emirati politician (born 1967)",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abdul Rahman Mohammed Al Owais"
+          },
+          "image": {
+            "text": "AbdulRahman_Bin_Mohamed_Al_Owais.jpg"
+          },
+          "caption": {
+            "text": "Minister of Health"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (United Arab Emirates)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 March 2013"
+          },
+          "alma_mater": {
+            "text": "United Arab Emirates University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Arab Emirates University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
