@@ -1,16 +1,11 @@
 @@,itemlabel,item,startdate,enddate
-+++,Muhammad bin Shakhbut Al Nahyan,Q6932845,1816,1818
-+++,Tahnun bin Shakhbut Al Nahyan,Q325518,1818,1833-04
 +++,Shakhbut bin Dhiyab Al Nahyan,Q325507,1818,
-+++,Khalifa bin Shakhbut Al Nahyan,Q6413077,1833-04,1845
 +++,Sultan bin Shakhbut Al Nahyan,,1833-04,1845-07
 +++,Isa bin Khalid,,1845-07,1845-09
 +++,Dhiyab II bin Isa,,1845-09,1845-12
-+++,Saeed bin Tahnun Al Nahyan,Q6409682,1845-12,1855
-+++,Zayed I bin Khalifa Al Nahyan,Q4119330,1855,1909
-+++,Tahnoun bin Zayed Al Nahyan,Q6406856,1909-05,1912-10
-+++,Hamdan bin Zayed Al Nahyan,Q60786126,1912-10,1922-08-22
-+++,Sultan II bin Zayed Al Nahyan,Q6409495,1922-08-22,1926-08-04
-+++,Saqr bin Zayed Al Nahyan,Q7421245,1926-08-04,1928-01-01
-+++,Shakhbut II bin Sultan Al Nahyan,Q2661904,1928-01-01,1966-08-06
+->,Zayed bin Khalifa Al Nahyan->Zayed I bin Khalifa Al Nahyan,Q4119330,1855,1909
+->,Tahnoun bin Zayed bin Khalifa Al Nahyan->Tahnoun bin Zayed Al Nahyan,Q6406856,1909-05,1912-10
+->,Hamdan bin Zayed bin Khalifa Al Nahyan->Hamdan bin Zayed Al Nahyan,Q60786126,1912-10,1922-08-22
+->,Sultan bin Zayed bin Khalifa Al Nahyan->Sultan II bin Zayed Al Nahyan,Q6409495,1922-08-22,1926-08-04
+->,Shakhbut bin Sultan Al Nahyan->Shakhbut II bin Sultan Al Nahyan,Q2661904,1928-01-01,1966-08-06
 ->,Zayed bin Sultan Al Nahyan->Zayed II bin Sultan Al Nahyan,Q167846,1966-08-02->1966-08-06,2004-11-02
