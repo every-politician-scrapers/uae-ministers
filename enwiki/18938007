@@ -1,281 +1,37 @@
 {
-  "title": "Maktoum bin Mohammed Al Maktoum",
-  "pageID": 18938007,
-  "categories": [
-    "1983 births",
-    "Maktoum family",
-    "Emirati princes",
-    "American University in Dubai alumni",
-    "Mohammed bin Rashid School of Government alumni",
-    "People from Dubai",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sheikh Maktoum bin Mohammed bin Rashid Al Maktoum (مكتوم بن محمد آل مكتوم; born 24 November 1983) is the Minister of Finance of the United Arab Emirates, Deputy Ruler of Dubai and Chairman of Dubai Media Incorporated.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sheikh"
-                },
-                {
-                  "type": "internal",
-                  "page": "United Arab Emirates"
-                },
-                {
-                  "text": "Dubai",
-                  "type": "internal",
-                  "page": "Emirate of Dubai"
-                },
-                {
-                  "type": "internal",
-                  "page": "Dubai Media Incorporated"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Maktoum bin Mohammed bin Rashid Al Maktoum"
-                ]
-              }
-            },
-            {
-              "text": "He was named as deputy ruler in February 2008 when his elder brother Hamdan was made crown prince.",
-              "links": [
-                {
-                  "text": "Hamdan",
-                  "type": "internal",
-                  "page": "Hamdan bin Mohammed Al Maktoum"
-                }
-              ]
-            },
-            {
-              "text": "He served as deputy ruler alongside his uncle Sheikh Hamdan bin Rashid Al Maktoum until the latter's death in March 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Hamdan bin Rashid Al Maktoum"
-                }
-              ]
-            },
-            {
-              "text": "Since then, he has been the sole deputy ruler under his father Mohammed bin Rashid Al Maktoum's reign.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mohammed bin Rashid Al Maktoum"
-                }
-              ]
-            },
-            {
-              "text": "In September 2021, he was appointed Deputy Prime Minister and Finance Minister of the UAE."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Maktoum bin Mohammed bin Rashid Al Maktoum is also the Chairman of Dubai Knowledge Park, formerly known as Dubai Knowledge Village, inaugurated in 2003."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Deputy Prime Minister and Minister of Finance of the United Arab Emirates and Deputy Ruler of Dubai",
-          "template": "short description"
-        },
-        {
-          "year": "1983",
-          "month": "11",
-          "day": "24",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "template": "dubai princely family"
-        }
-      ],
-      "infoboxes": [
-        {
-          "succession": {
-            "text": "Deputy Prime Minister and Minister of Finance of the United Arab Emirates"
-          },
-          "reign": {
-            "text": "25 September 2021 – present"
-          },
-          "reign-type": {
-            "text": "In office"
-          },
-          "predecessor": {
-            "text": "Hamdan bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hamdan bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "regent": {
-            "text": "Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "reg-type": {
-            "text": "Monarch"
-          },
-          "succession1": {
-            "text": "Deputy Ruler of Dubai"
-          },
-          "reign1": {
-            "text": "1 February 2008 – present"
-          },
-          "reign-type1": {
-            "text": "In office"
-          },
-          "predecessor1": {
-            "text": "Hamdan bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hamdan bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "regent1": {
-            "text": "Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "reg-type1": {
-            "text": "Monarch"
-          },
-          "succession2": {
-            "text": "Chairman of the Court of HH Ruler of Dubai"
-          },
-          "predecessor2": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "regent2": {
-            "text": "Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "reg-type2": {
-            "text": "Monarch"
-          },
-          "reign2": {
-            "text": "15 May 2021 – present"
-          },
-          "reign-type2": {
-            "text": "In office"
-          },
-          "image": {
-            "text": "Sheikh Maktoum.jpg"
-          },
-          "caption": {
-            "text": "Sheikh Maktoum bin Mohammed Al Maktoum"
-          },
-          "title": {
-            "text": "Deputy Prime Minister and Minister of Finance of the United Arab Emirates"
-          },
-          "house": {
-            "text": "Al Falasi",
-            "links": [
-              {
-                "text": "Al Falasi",
-                "type": "internal",
-                "page": "House of Al-Falasi"
-              }
-            ]
-          },
-          "full name": {
-            "text": "Maktoum bin Mohammed bin Rashid Al Maktoum"
-          },
-          "birth_date": {
-            "text": "November 24, 1983"
-          },
-          "birth_place": {
-            "text": "Dubai, United Arab Emirates",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dubai"
-              },
-              {
-                "type": "internal",
-                "page": "United Arab Emirates"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Maryam bint Butti bin Maktoum Al Maktoum (m. 2019)"
-          },
-          "issue": {
-            "text": "Hind bint Maktoum Al Maktoum Latifa bint Maktoum Al Maktoum"
-          },
-          "father": {
-            "text": "Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Hind bint Maktoum bin Juma Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hind bint Maktoum bin Juma Al Maktoum"
-              }
-            ]
-          }
-        },
-        {
-          "royal name": {
-            "text": "Deputy Ruler of Dubai"
-          },
-          "image": {
-            "text": "Coat of arms of Dubai.svg"
-          },
-          "dipstyle": {
-            "text": "His Highness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Highness"
-              }
-            ]
-          },
-          "offstyle": {
-            "text": "Your Highness"
-          }
-        }
-      ]
-    }
-  ]
+  "succession": "Deputy Prime Minister and Minister of Finance of the United Arab Emirates",
+  "reign": "25 September 2021 – present",
+  "reign-type": "In office",
+  "predecessor": "Hamdan bin Rashid Al Maktoum",
+  "regent": "Mohammed bin Rashid Al Maktoum",
+  "reg-type": "Monarch",
+  "succession1": "Deputy Ruler of Dubai",
+  "reign1": "1 February 2008 – present",
+  "reign-type1": "In office",
+  "predecessor1": "Hamdan bin Rashid Al Maktoum",
+  "regent1": "Mohammed bin Rashid Al Maktoum",
+  "reg-type1": "Monarch",
+  "succession2": "Chairman of the Court of HH Ruler of Dubai",
+  "predecessor2": "Office established",
+  "regent2": "Mohammed bin Rashid Al Maktoum",
+  "reg-type2": "Monarch",
+  "reign2": "15 May 2021 – present",
+  "reign-type2": "In office",
+  "image": "Sheikh Maktoum.jpg",
+  "caption": "Sheikh Maktoum bin Mohammed Al Maktoum",
+  "title": "Deputy Prime Minister and Minister of Finance of the United Arab Emirates",
+  "house": "Al Falasi",
+  "full name": "Maktoum bin Mohammed bin Rashid Al Maktoum",
+  "birth_date": "November 24, 1983",
+  "birth_place": "Dubai, United Arab Emirates",
+  "spouse": "Maryam bint Butti bin Maktoum Al Maktoum (m. 2019)",
+  "issue": "Hind bint Maktoum Al Maktoum Latifa bint Maktoum Al Maktoum",
+  "father": "Mohammed bin Rashid Al Maktoum",
+  "mother": "Hind bint Maktoum bin Juma Al Maktoum"
+}
+{
+  "royal name": "Deputy Ruler of Dubai",
+  "image": "Coat of arms of Dubai.svg",
+  "dipstyle": "His Highness",
+  "offstyle": "Your Highness"
 }

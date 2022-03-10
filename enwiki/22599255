@@ -1,258 +1,38 @@
 {
-  "title": "Saif bin Zayed Al Nahyan",
-  "pageID": 22599255,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "House of Al Nahyan",
-    "Children of presidents of the United Arab Emirates",
-    "United Arab Emirates University alumni",
-    "Interior ministers of the United Arab Emirates",
-    "Deputy Prime Ministers of the United Arab Emirates"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Saif bin Zayed Al Nahyan (سيف بن زايد آل نهيان; born 1968) is United Arab Emirates's Minister of Interior since October 2004 and Deputy Prime Minister since May 2009.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "United Arab Emirates"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Saif bin Zayed Al Nahyan"
-                ]
-              }
-            },
-            {
-              "text": "As Minister of Interior, he is in charge of the United Arab Emirates interior protection and homeland security."
-            },
-            {
-              "text": "He is a member of the Al Nahyan family.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Al Nahyan family"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "April 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1968",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office": {
-            "text": "[[List of Prime Ministers of the United Arab Emirates#List of Deputy Prime Ministers of the United Arab Emirates (1971-Present)|Deputy Prime Minister of the United Arab Emirates]]"
-          },
-          "term_start": {
-            "text": "10 May 2009"
-          },
-          "alongside": {
-            "text": "Mansour bin Zayed Al Nahyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mansour bin Zayed Al Nahyan"
-              }
-            ]
-          },
-          "president": {
-            "text": "Khalifa bin Zayed Al Nahyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khalifa bin Zayed Al Nahyan"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Hamdan bin Zayed Al Nahyan & Sultan bin Zayed bin Sultan Al Nahyan",
-            "links": [
-              {
-                "text": "Hamdan bin Zayed Al Nahyan",
-                "type": "internal",
-                "page": "Hamdan bin Zayed bin Sultan Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Sultan bin Zayed bin Sultan Al Nahyan"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of the Interior of the United Arab Emirates",
-            "links": [
-              {
-                "text": "Minister of the Interior of the United Arab Emirates",
-                "type": "internal",
-                "page": "Government of the United Arab Emirates"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Khalifa bin Zayed Al Nahyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khalifa bin Zayed Al Nahyan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 November 2004"
-          },
-          "primeminister2": {
-            "text": "Maktoum bin Rashid Al Maktoum\nMohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maktoum bin Rashid Al Maktoum"
-              },
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Mohamed bin Saeed Al Badi"
-          },
-          "office3": {
-            "text": "Commander of the Abu Dhabi Police",
-            "links": [
-              {
-                "text": "Commander of the Abu Dhabi Police",
-                "type": "internal",
-                "page": "Abu Dhabi Police"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1995",
-            "number": 1995
-          },
-          "predecessor3": {
-            "text": "Thani Obeid Khamees Al Rumaithi"
-          },
-          "rank": {
-            "text": "Lieutenant General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lieutenant General"
-              }
-            ]
-          }
-        },
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "house": {
-            "text": "Al Nahyan",
-            "links": [
-              {
-                "text": "Al Nahyan",
-                "type": "internal",
-                "page": "Al Nahyan family"
-              }
-            ]
-          }
-        },
-        {
-          "name": {
-            "text": "Sheikh Saif bin Zayed Al Nahyan"
-          },
-          "native_name": {
-            "text": "الشيخ سيف بن زايد آل نهيان"
-          },
-          "native_name_lang": {
-            "text": "ar"
-          },
-          "image": {
-            "text": "Saif bin Zayed Al Nahyan.jpg"
-          },
-          "father": {
-            "text": "Zayed bin Sultan Al Nahyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zayed bin Sultan Al Nahyan"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Mouza bint Suhail Al Khaili",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mouza bint Suhail Al Khaili"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1968 (age 54)"
-          },
-          "alma_mater": {
-            "text": "United Arab Emirates University (Bachelor's degree in political science)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Arab Emirates University"
-              }
-            ]
-          }
-        },
-        {
-          "royal name": {
-            "text": "Sheikh Saif bin Zayed Al Nahyan"
-          },
-          "image": {
-            "text": "Emblem of Abu Dhabi - Gold.svg"
-          },
-          "dipstyle": {
-            "text": "His Highness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Highness"
-              }
-            ]
-          },
-          "offstyle": {
-            "text": "Your Highness"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "office": "[[List of Prime Ministers of the United Arab Emirates#List of Deputy Prime Ministers of the United Arab Emirates (1971-Present)|Deputy Prime Minister of the United Arab Emirates]]",
+  "term_start": "10 May 2009",
+  "alongside": "Mansour bin Zayed Al Nahyan",
+  "president": "Khalifa bin Zayed Al Nahyan",
+  "primeminister": "Mohammed bin Rashid Al Maktoum",
+  "predecessor": "Hamdan bin Zayed Al Nahyan & Sultan bin Zayed bin Sultan Al Nahyan",
+  "office2": "Minister of the Interior of the United Arab Emirates",
+  "president2": "Khalifa bin Zayed Al Nahyan",
+  "term_start2": "1 November 2004",
+  "primeminister2": "Maktoum bin Rashid Al Maktoum\nMohammed bin Rashid Al Maktoum",
+  "predecessor2": "Mohamed bin Saeed Al Badi",
+  "office3": "Commander of the Abu Dhabi Police",
+  "term_start3": "1995",
+  "predecessor3": "Thani Obeid Khamees Al Rumaithi",
+  "rank": "Lieutenant General"
+}
+{
+  "embed": "yes",
+  "house": "Al Nahyan"
+}
+{
+  "name": "Sheikh Saif bin Zayed Al Nahyan",
+  "native_name": "الشيخ سيف بن زايد آل نهيان",
+  "native_name_lang": "ar",
+  "image": "Saif bin Zayed Al Nahyan.jpg",
+  "father": "Zayed bin Sultan Al Nahyan",
+  "mother": "Mouza bint Suhail Al Khaili",
+  "birth_date": "1968 (age 54)",
+  "alma_mater": "United Arab Emirates University (Bachelor's degree in political science)"
+}
+{
+  "royal name": "Sheikh Saif bin Zayed Al Nahyan",
+  "image": "Emblem of Abu Dhabi - Gold.svg",
+  "dipstyle": "His Highness",
+  "offstyle": "Your Highness"
 }

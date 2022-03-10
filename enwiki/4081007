@@ -1,182 +1,19 @@
 {
-  "title": "Hamad bin Mohammed Al Sharqi",
-  "pageID": 4081007,
-  "categories": [
-    "Living people",
-    "1949 births",
-    "Sheikhs of the Emirate of Fujairah"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sheikh Hamad bin Mohammed Al Sharqi (born 22 February 1949) is the ruler of the Emirate of Fujairah in the United Arab Emirates.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Emirate of Fujairah"
-                },
-                {
-                  "type": "internal",
-                  "page": "United Arab Emirates"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sheikh Hamad bin Mohammed Al Sharqi"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Mohammed bin Hamad bin Mohammed Al Sharqi"
-          ],
-          "template": "distinguish"
-        },
-        {
-          "list": [
-            "Al Sharqi"
-          ],
-          "lang": "Arabic",
-          "template": "family name hatnote"
-        },
-        {
-          "date": "March 2016",
-          "template": "blp sources"
-        },
-        {
-          "date": "August 2018",
-          "template": "more citations needed"
-        },
-        {
-          "template": "multiple issues"
-        },
-        {
-          "spouse": "Her Highness Sheikha Fatima bint Thani bin Saeed Al Maktoum",
-          "from": "1984",
-          "template": "marriage"
-        },
-        {
-          "list": [
-            "Sheikha Sarra bint Hamad",
-            "Sheikh Mohammed bin Hamad",
-            "Sheikh Rashid bin Hamad",
-            "Sheikha Shamsa bint Hamad",
-            "Sheikha Madiya bint Hamad",
-            "Sheikh Maktoum bin Hamad"
-          ],
-          "template": "unbulleted list"
-        },
-        {
-          "year": "1949",
-          "month": "02",
-          "day": "22",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "title": {
-            "text": "Ruler of Fujairah"
-          },
-          "caption": {
-            "text": "Emir of Fujairah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emir of Fujairah"
-              }
-            ]
-          },
-          "spouses": {
-            "text": "Her Highness Sheikha Fatima bint Thani bin Saeed Al Maktoum (m. 1984)"
-          },
-          "issue": {
-            "text": "Sheikha Sarra bint Hamad\n\nSheikh Mohammed bin Hamad\n\nSheikh Rashid bin Hamad\n\nSheikha Shamsa bint Hamad\n\nSheikha Madiya bint Hamad\n\nSheikh Maktoum bin Hamad"
-          },
-          "full name": {
-            "text": "Sheikh Hamad bin Mohammed bin Hamad bin Abdulla Al Sharqi"
-          },
-          "house": {
-            "text": "Al Sharqi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Al Sharqi"
-              }
-            ]
-          },
-          "father": {
-            "text": "Sheikh Mohammed bin Hamad Al Sharqi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Hamad Al Sharqi"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Sheikha Fatima bint Rashid Al Nuaimi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fatima bint Rashid Al Nuaimi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 22, 1949"
-          },
-          "birth_place": {
-            "text": "Fujairah",
-            "links": [
-              {
-                "text": "Fujairah",
-                "type": "internal",
-                "page": "Emirate of Fujairah"
-              }
-            ]
-          },
-          "religion": {
-            "text": "Islam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Islam"
-              }
-            ]
-          }
-        },
-        {
-          "royal name": {
-            "text": "Ruler of Fujairah"
-          },
-          "image": {
-            "text": "Coat of arms of Fujairah.svg"
-          },
-          "dipstyle": {
-            "text": "His Highness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Highness"
-              }
-            ]
-          },
-          "offstyle": {
-            "text": "Your Highness"
-          }
-        }
-      ]
-    }
-  ]
+  "title": "Ruler of Fujairah",
+  "caption": "Emir of Fujairah",
+  "spouses": "Her Highness Sheikha Fatima bint Thani bin Saeed Al Maktoum (m. 1984)",
+  "issue": "Sheikha Sarra bint Hamad\n\nSheikh Mohammed bin Hamad\n\nSheikh Rashid bin Hamad\n\nSheikha Shamsa bint Hamad\n\nSheikha Madiya bint Hamad\n\nSheikh Maktoum bin Hamad",
+  "full name": "Sheikh Hamad bin Mohammed bin Hamad bin Abdulla Al Sharqi",
+  "house": "Al Sharqi",
+  "father": "Sheikh Mohammed bin Hamad Al Sharqi",
+  "mother": "Sheikha Fatima bint Rashid Al Nuaimi",
+  "birth_date": "February 22, 1949",
+  "birth_place": "Fujairah",
+  "religion": "Islam"
+}
+{
+  "royal name": "Ruler of Fujairah",
+  "image": "Coat of arms of Fujairah.svg",
+  "dipstyle": "His Highness",
+  "offstyle": "Your Highness"
 }

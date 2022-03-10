@@ -90,8 +90,13 @@
           "template": "for"
         },
         {
+          "reason": "Persistent disruptive editing",
+          "small": "yes",
+          "template": "pp-protected"
+        },
+        {
           "date": "July 2012",
-          "template": "refimprove"
+          "template": "more citations needed"
         }
       ],
       "infoboxes": [
@@ -255,7 +260,7 @@
               "text": "The Federal Supreme Council meets four times each year and its meetings are often on an informal basis and attend meetings of the Board, consisting of the seven rulers of the emirates of the Federation or those acting in their emirate in the case of their absence."
             },
             {
-              "text": "Each has one vote in the Council's resolutions."
+              "text": "Each has one vote in the council's resolutions."
             }
           ]
         }
@@ -423,7 +428,7 @@
               "text": "Sheik Mohammed bin Rashid Al Maktoum.jpg"
             },
             "col2": {
-              "text": "Sheikh Mohammed bin Rashid Al Maktoum (Vice-President of the Supreme Council)",
+              "text": "Sheikh Mohammed bin Rashid Al Maktoum (vice-president of the Supreme Council)",
               "links": [
                 {
                   "text": "Sheikh Mohammed bin Rashid Al Maktoum",
