@@ -38,6 +38,44 @@
                   "Federal Supreme Council"
                 ]
               }
+            },
+            {
+              "text": "It establishes general policies and sanctions federal legislation."
+            },
+            {
+              "text": "It is the First Federal Authority in terms of ranking in the hierarchy of the Five Federal Authorities prescribed in the Constitution: Federal Supreme Council, Federal President and Federal Vice President, Federal Cabinet, Federal National Council, Federal Judiciary.",
+              "links": [
+                {
+                  "text": "Federal President",
+                  "type": "internal",
+                  "page": "President of the United Arab Emirates"
+                },
+                {
+                  "text": "Federal Vice President",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of the United Arab Emirates"
+                },
+                {
+                  "text": "Federal Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet of the United Arab Emirates"
+                },
+                {
+                  "type": "internal",
+                  "page": "Federal National Council"
+                },
+                {
+                  "text": "Federal Judiciary",
+                  "type": "internal",
+                  "page": "Politics of the United Arab Emirates",
+                  "anchor": "Federal Judiciary"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Federal Supreme Council"
+                ]
+              }
             }
           ]
         }
@@ -190,6 +228,18 @@
                   "page": "Cabinet of the United Arab Emirates"
                 }
               ]
+            },
+            {
+              "text": "On 23 December 1971 the Emirate of Ras al-Khaimah sent a letter to the Council requesting to join the union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ras al-Khaimah"
+                }
+              ]
+            },
+            {
+              "text": "The Council agreed to the request and the Ras al-Khaimah joined the Union on 10 February 1972."
             }
           ]
         }
@@ -203,6 +253,9 @@
           "sentences": [
             {
               "text": "The Federal Supreme Council meets four times each year and its meetings are often on an informal basis and attend meetings of the Board, consisting of the seven rulers of the emirates of the Federation or those acting in their emirate in the case of their absence."
+            },
+            {
+              "text": "Each has one vote in the council's resolutions."
             }
           ]
         }
