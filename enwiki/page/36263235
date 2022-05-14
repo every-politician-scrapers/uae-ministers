@@ -116,12 +116,12 @@
             ]
           },
           "leader1": {
-            "text": "Sheikh Khalifa bin Zayed Al Nahyan",
+            "text": "Sheikh Mohammed bin Rashid Al Maktoum (acting)",
             "links": [
               {
-                "text": "Sheikh Khalifa bin Zayed Al Nahyan",
+                "text": "Sheikh Mohammed bin Rashid Al Maktoum",
                 "type": "internal",
-                "page": "Khalifa bin Zayed Al Nahyan"
+                "page": "Mohammed bin Rashid Al Maktoum"
               }
             ]
           },
@@ -136,14 +136,7 @@
             ]
           },
           "leader2": {
-            "text": "Sheikh Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "text": "Sheikh Mohammed bin Rashid Al Maktoum",
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
+            "text": "Sheikh Mohammed bin Rashid Al Maktoum"
           },
           "members": {
             "text": "7 (one for each emirate)"
@@ -379,21 +372,20 @@
           },
           {
             "col1": {
-              "text": "Khalifa Bin Zayed Al Nahyan-CROPPED.jpg"
+              "text": "Mohammed bin Zayed Al Nahyan - 2021 (51683733605) (cropped).jpg"
             },
             "col2": {
-              "text": "Sheikh Khalifa bin Zayed Al Nahyan (President of the Supreme Council)",
+              "text": "Mohammed bin Zayed Al Nahyan",
               "links": [
                 {
-                  "text": "Sheikh Khalifa bin Zayed Al Nahyan",
                   "type": "internal",
-                  "page": "Khalifa bin Zayed Al Nahyan"
+                  "page": "Mohammed bin Zayed Al Nahyan"
                 }
               ]
             },
             "col3": {
-              "text": "2004",
-              "number": 2004
+              "text": "2022",
+              "number": 2022
             },
             "col4": {
               "text": "Emir and Ruler of Abu Dhabi",
@@ -406,13 +398,7 @@
               ]
             },
             "col5": {
-              "text": "President of the United Arab Emirates",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "President of the United Arab Emirates"
-                }
-              ]
+              "text": ""
             },
             "col6": {
               "text": ""
@@ -420,7 +406,7 @@
           },
           {
             "col1": {
-              "text": "Sheik Mohammed bin Rashid Al Maktoum.jpg"
+              "text": "Mohammed bin Rashid Al Maktoum in India (cropped).jpg"
             },
             "col2": {
               "text": "Sheikh Mohammed bin Rashid Al Maktoum (vice-president of the Supreme Council)",
@@ -462,7 +448,7 @@
           },
           {
             "col1": {
-              "text": "Sheik Qasimi, Sharjah, im Kölner Rathaus-0212.jpg"
+              "text": "Empfang für Sheik Qasimi, Sharjah, im Kölner Rathaus-0198 (cropped).jpg"
             },
             "col2": {
               "text": "Sheikh Sultan bin Muhammad Al-Qasimi",
@@ -504,7 +490,7 @@
           },
           {
             "col1": {
-              "text": ""
+              "text": "Sheikh humaid ruler of ajman.jpg"
             },
             "col2": {
               "text": "Sheikh Humaid bin Rashid Al Nuaimi",
@@ -630,7 +616,7 @@
           },
           {
             "col1": {
-              "text": "100px]]"
+              "text": "Sheikh Saud in 2010.jpg"
             },
             "col2": {
               "text": "Sheikh Saud bin Saqr al Qasimi",
