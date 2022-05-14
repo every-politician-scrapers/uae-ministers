@@ -181,7 +181,14 @@
             ]
           },
           {
-            "text": "Eng. Awaidha Murshed Al Marar (Chairman of Department of Municipal Affairs)"
+            "text": "Eng. Awaidha Murshed Al Marar (Chairman of Department of Municipal Affairs)",
+            "links": [
+              {
+                "text": "Department of Municipal Affairs",
+                "type": "internal",
+                "page": "Department of Municipal Affairs (Abu Dhabi)"
+              }
+            ]
           },
           {
             "text": "Ali Majed Al Mansouri (Chairman of Department of Economic Development)",
