@@ -1,24 +1,5 @@
 {
-  "embed": "yes",
-  "office": "Deputy Prime Minister of the United Arab Emirates",
-  "term_start": "10 May 2009",
-  "alongside": "Saif bin Zayed Al Nahyan",
-  "president": "Khalifa bin Zayed Al Nahyan",
-  "primeminister": "Mohammed bin Rashid Al Maktoum",
-  "predecessor": "Sultan bin Zayed Al Nahyan Hamdan bin Zayed Al Nahyan",
-  "office2": "Minister of Presidential Affairs of the United Arab Emirates",
-  "term_start2": "1 November 2009",
-  "president2": "Zayed bin Sultan Al Nahyan Khalifa bin Zayed Al Nahyan",
-  "primeminister2": "Maktoum bin Rashid Al Maktoum Mohammed bin Rashid Al Maktoum",
-  "occupation": "Politician",
-  "cabinet": "Cabinet of the United Arab Emirates"
-}
-{
-  "embed": "yes",
-  "house": "Al Nahyan"
-}
-{
-  "honorific_prefix": "His Highness",
+  "honorific_prefix": "His Highness Sheikh",
   "name": "Mansour bin Zayed Al Nahyan",
   "birth_date": "November 20, 1970",
   "birth_place": "Trucial States (now United Arab Emirates)",
@@ -27,7 +8,20 @@
   "children": "Zayed\n\nFatima\n\nMohammed\n\nHamdan\n\nLatifa\n\nRashid",
   "father": "Zayed bin Sultan Al Nahyan",
   "mother": "Fatima bint Mubarak Al Ketbi",
-  "networth": "US$22 billion (2018)"
+  "networth": "US$22 billion (2018)",
+  "office": "Deputy Prime Minister of the United Arab Emirates",
+  "term_start": "10 May 2009",
+  "alongside": "Saif bin Zayed Al Nahyan (since 2009) and Maktoum bin Mohammed Al Maktoum (since 2021)",
+  "president": "Khalifa bin Zayed Al Nahyan Mohamed bin Zayed Al Nahyan",
+  "primeminister": "Mohammed bin Rashid Al Maktoum",
+  "predecessor": "Sultan bin Zayed Al Nahyan Hamdan bin Zayed Al Nahyan",
+  "office2": "Minister of Presidential Affairs of the United Arab Emirates",
+  "term_start2": "1 November 2009",
+  "president2": "Zayed bin Sultan Al Nahyan Khalifa bin Zayed Al Nahyan Mohamed bin Zayed Al Nahyan",
+  "primeminister2": "Maktoum bin Rashid Al Maktoum Mohammed bin Rashid Al Maktoum",
+  "occupation": "Politician",
+  "cabinet": "Cabinet of the United Arab Emirates",
+  "relatives": "Al Nahyan"
 }
 {
   "royal name": "Sheikh Mansour bin Zayed bin Sultan bin Zayed bin Khalifa Al Nahyan",

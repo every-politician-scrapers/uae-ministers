@@ -1,10 +1,10 @@
 {
-  "honorific-prefix": "His Highness",
+  "honorific-prefix": "His Highness Sheikh",
   "name": "Abdullah bin Zayed Al Nahyan",
   "imagesize": "220px",
   "office": "Minister of Foreign Affairs and International Cooperation of the United Arab Emirates",
   "term_start": "9 February 2006",
-  "president": "Khalifa bin Zayed Al Nahyan",
+  "president": "Khalifa bin Zayed Al Nahyan Mohamed bin Zayed Al Nahyan",
   "primeminister": "Mohammed bin Rashid Al Maktoum",
   "predecessor": "Rashid Abdullah Al Nuaimi",
   "office2": "Minister of Information and Culture of the United Arab Emirates",
@@ -19,13 +19,6 @@
   "alma_mater": "United Arab Emirates University",
   "spouse": "Al Yazia bint Saif bin Mohammed Al Nahyan",
   "children": "Fatima\n\nMohammed\n\nZayed\n\nSaif\n\nTheyab",
-  "blank1": "Father",
-  "data1": "Zayed bin Sultan Al Nahyan",
-  "blank2": "Mother",
-  "data2": "Fatima bint Mubarak Al Ketbi"
-}
-{
-  "royal name": "Sheikh Abdullah bin Zayed bin Sultan Al Nahyan",
-  "dipstyle": "His Highness",
-  "offstyle": "Your Highness"
+  "father": "Zayed bin Sultan Al Nahyan",
+  "mother": "Fatima bint Mubarak Al Ketbi"
 }

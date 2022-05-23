@@ -97,7 +97,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Federal Supreme Council (المجلس الأعلى للاتحاد, literally 'Supreme Council of the Union')"
+            "text": "Federal Supreme Council (المجلس الأعلى للاتحاد)"
           },
           "coa_pic": {
             "text": "Emblem of the United Arab Emirates.svg"
@@ -116,12 +116,11 @@
             ]
           },
           "leader1": {
-            "text": "Sheikh Mohammed bin Rashid Al Maktoum (acting)",
+            "text": "Mohamed bin Zayed Al Nahyan",
             "links": [
               {
-                "text": "Sheikh Mohammed bin Rashid Al Maktoum",
                 "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
+                "page": "Mohamed bin Zayed Al Nahyan"
               }
             ]
           },
@@ -136,7 +135,13 @@
             ]
           },
           "leader2": {
-            "text": "Sheikh Mohammed bin Rashid Al Maktoum"
+            "text": "Mohammed bin Rashid Al Maktoum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohammed bin Rashid Al Maktoum"
+              }
+            ]
           },
           "members": {
             "text": "7 (one for each emirate)"
@@ -336,10 +341,10 @@
         {
           "sentences": [
             {
-              "text": "Federal Supreme Council consists of the seven Emirs of each emirate:",
+              "text": "The Federal Supreme Council consists of the seven rulers of each emirate:",
               "links": [
                 {
-                  "text": "seven Emirs of each emirate",
+                  "text": "seven rulers of each emirate",
                   "type": "internal",
                   "page": "Emir"
                 }
@@ -388,17 +393,24 @@
               "number": 2022
             },
             "col4": {
-              "text": "Emir and Ruler of Abu Dhabi",
+              "text": "Ruler of Abu Dhabi",
               "links": [
                 {
-                  "text": "Emir and Ruler of Abu Dhabi",
+                  "text": "Ruler of Abu Dhabi",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
               ]
             },
             "col5": {
-              "text": ""
+              "text": "President",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the United Arab Emirates"
+                }
+              ]
             },
             "col6": {
               "text": ""
@@ -409,7 +421,7 @@
               "text": "Mohammed bin Rashid Al Maktoum in India (cropped).jpg"
             },
             "col2": {
-              "text": "Sheikh Mohammed bin Rashid Al Maktoum (vice-president of the Supreme Council)",
+              "text": "Sheikh Mohammed bin Rashid Al Maktoum",
               "links": [
                 {
                   "text": "Sheikh Mohammed bin Rashid Al Maktoum",
@@ -423,22 +435,22 @@
               "number": 2006
             },
             "col4": {
-              "text": "Emir and Ruler of Dubai",
+              "text": "Ruler of Dubai",
               "links": [
                 {
-                  "text": "Emir and Ruler of Dubai",
+                  "text": "Ruler of Dubai",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
               ]
             },
             "col5": {
-              "text": "Prime Minister of the United Arab Emirates Vice President of the United Arab Emirates",
+              "text": "Vice President, Prime Minister",
               "links": [
                 {
-                  "text": "Prime Minister of the United Arab Emirates Vice President of the United Arab Emirates",
+                  "text": "Vice President, Prime Minister",
                   "type": "internal",
-                  "page": "List of Prime Ministers of the United Arab Emirates"
+                  "page": "List of prime ministers of the United Arab Emirates"
                 }
               ]
             },
@@ -465,10 +477,10 @@
               "number": 1972
             },
             "col4": {
-              "text": "Emir and Ruler of Sharjah",
+              "text": "Ruler of Sharjah",
               "links": [
                 {
-                  "text": "Emir and Ruler of Sharjah",
+                  "text": "Ruler of Sharjah",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
@@ -507,10 +519,10 @@
               "number": 1981
             },
             "col4": {
-              "text": "Emir and Ruler of Ajman",
+              "text": "Ruler of Ajman",
               "links": [
                 {
-                  "text": "Emir and Ruler of Ajman",
+                  "text": "Ruler of Ajman",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
@@ -549,17 +561,17 @@
               "number": 1974
             },
             "col4": {
-              "text": "Emir and Ruler of Fujairah",
+              "text": "Ruler of Fujairah",
               "links": [
                 {
-                  "text": "Emir and Ruler of Fujairah",
+                  "text": "Ruler of Fujairah",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
               ]
             },
             "col5": {
-              "text": "Member of the Federal Supreme Council.",
+              "text": "Member of the Federal Supreme Council",
               "links": [
                 {
                   "text": "Member of the Federal Supreme Council",
@@ -591,17 +603,17 @@
               "number": 2009
             },
             "col4": {
-              "text": "Emir and Ruler of Umm al-Quwain",
+              "text": "Ruler of Umm al-Quwain",
               "links": [
                 {
-                  "text": "Emir and Ruler of Umm al-Quwain",
+                  "text": "Ruler of Umm al-Quwain",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
               ]
             },
             "col5": {
-              "text": "Member of the Federal Supreme Council.",
+              "text": "Member of the Federal Supreme Council",
               "links": [
                 {
                   "text": "Member of the Federal Supreme Council",
@@ -633,17 +645,17 @@
               "number": 2010
             },
             "col4": {
-              "text": "Emir and Ruler of Ras al-Khaimah",
+              "text": "Ruler of Ras al-Khaimah",
               "links": [
                 {
-                  "text": "Emir and Ruler of Ras al-Khaimah",
+                  "text": "Ruler of Ras al-Khaimah",
                   "type": "internal",
                   "page": "List of rulers of separate Emirates of the United Arab Emirates"
                 }
               ]
             },
             "col5": {
-              "text": "Member of the Federal Supreme Council.",
+              "text": "Member of the Federal Supreme Council",
               "links": [
                 {
                   "text": "Member of the Federal Supreme Council",
