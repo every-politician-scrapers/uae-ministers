@@ -1,33 +1,28 @@
 {
-  "embed": "yes",
-  "office": "[[List of Prime Ministers of the United Arab Emirates#List of Deputy Prime Ministers of the United Arab Emirates (1971-Present)|Deputy Prime Minister of the United Arab Emirates]]",
-  "term_start": "10 May 2009",
-  "alongside": "Mansour bin Zayed Al Nahyan",
-  "president": "Khalifa bin Zayed Al Nahyan",
-  "primeminister": "Mohammed bin Rashid Al Maktoum",
-  "predecessor": "Hamdan bin Zayed Al Nahyan & Sultan bin Zayed bin Sultan Al Nahyan",
-  "office2": "Minister of the Interior of the United Arab Emirates",
-  "president2": "Khalifa bin Zayed Al Nahyan",
-  "term_start2": "1 November 2004",
-  "primeminister2": "Maktoum bin Rashid Al Maktoum\nMohammed bin Rashid Al Maktoum",
-  "predecessor2": "Mohamed bin Saeed Al Badi",
-  "office3": "Commander of the Abu Dhabi Police",
-  "term_start3": "1995",
-  "predecessor3": "Thani Obeid Khamees Al Rumaithi",
-  "rank": "Lieutenant General"
-}
-{
-  "embed": "yes",
-  "house": "Al Nahyan"
-}
-{
-  "name": "Sheikh Saif bin Zayed Al Nahyan",
-  "native_name": "الشيخ سيف بن زايد آل نهيان",
+  "honorific_prefix": "Sheikh",
+  "name": "Saif bin Zayed Al Nahyan",
+  "native_name": "سيف بن زايد آل نهيان",
   "native_name_lang": "ar",
   "father": "Zayed bin Sultan Al Nahyan",
   "mother": "Mouza bint Suhail Al Khaili",
   "birth_date": "1968 (age 54)",
-  "alma_mater": "United Arab Emirates University (Bachelor's degree in political science)"
+  "alma_mater": "United Arab Emirates University (Bachelor's degree in political science)",
+  "office": "[[List of Prime Ministers of the United Arab Emirates#List of Deputy Prime Ministers of the United Arab Emirates (1971-Present)|Deputy Prime Minister of the United Arab Emirates]]",
+  "term_start": "10 May 2009",
+  "alongside": "Mansour bin Zayed Al Nahyan (since 2009) and Maktoum bin Mohammed Al Maktoum (since 2021)",
+  "president": "Khalifa bin Zayed Al Nahyan (2009–2022)\nMohamed bin Zayed Al Nahyan (2022–present)",
+  "primeminister": "Mohammed bin Rashid Al Maktoum",
+  "predecessor": "Hamdan bin Zayed Al Nahyan & Sultan bin Zayed bin Sultan Al Nahyan",
+  "office2": "Minister of the Interior of the United Arab Emirates",
+  "president2": "Khalifa bin Zayed Al Nahyan (2004–2022)\nMohamed bin Zayed Al Nahyan (2022–present)",
+  "term_start2": "1 November 2004",
+  "primeminister2": "Maktoum bin Rashid Al Maktoum (2004–2006)\nMohammed bin Rashid Al Maktoum (2006–present)",
+  "predecessor2": "Mohamed bin Saeed Al Badi",
+  "office3": "Commander of the Abu Dhabi Police",
+  "term_start3": "1995",
+  "predecessor3": "Thani Obeid Khamees Al Rumaithi",
+  "rank": "Lieutenant General",
+  "relatives": "Al Nahyan"
 }
 {
   "royal name": "Sheikh Saif bin Zayed Al Nahyan",

@@ -1,11 +1,13 @@
 {
-  "title": "Ruler of Fujairah",
+  "succession": "Ruler of Fujairah",
+  "reign": "1975–present",
+  "predecessor": "Mohammed bin Hamad Al Sharqi",
   "spouses": "Her Highness Sheikha Fatima bint Thani bin Saeed Al Maktoum (m. 1984)",
   "issue": "Sheikha Sarra bint Hamad\n\nSheikh Mohammed bin Hamad\n\nSheikh Rashid bin Hamad\n\nSheikha Shamsa bint Hamad\n\nSheikha Madiya bint Hamad\n\nSheikh Maktoum bin Hamad",
   "full name": "Sheikh Hamad bin Mohammed bin Hamad bin Abdulla Al Sharqi",
   "house": "Al Sharqi",
-  "father": "Sheikh Mohammed bin Hamad Al Sharqi",
-  "mother": "Sheikha Fatima bint Rashid Al Nuaimi",
+  "father": "Mohammed bin Hamad Al Sharqi",
+  "mother": "Fatima bint Rashid Al Nuaimi",
   "birth_date": "February 22, 1949",
   "birth_place": "Fujairah",
   "religion": "Islam"
