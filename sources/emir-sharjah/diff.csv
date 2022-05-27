@@ -1,13 +1,12 @@
 @@,itemlabel,item,startdate,enddate
-->,Rashid bin Matar Al Qasimi->Sheikh Rashid bin Matar Al Qasimi,Q60785778,1727,1777
-->,Saqr bin Rashid Al Qasimi->Sheikh Saqr bin Rashid Al Qasimi,Q57164232,1777,1803
-->,Sultan bin Saqr Al Qasimi->Sheikh Sultan bin Saqr Al Qasimi,Q6800497,1803,1840
-->,Sultan bin Saqr Al Qasimi->Sheikh Sultan bin Saqr Al Qasimi,Q6800497,1840,1866
-->,Saqr III bin Sultan al-Qasimi->Sheikh Saqr bin Sultan Al-Qasimi,Q12220103,1840,1840->NULL
-->,Khalid bin Sultan Al Qasimi->Sheikh Khalid bin Sultan Al Qasimi,Q60785755,1866,1868-04-14
-->,Salim bin Sultan Al Qasimi->Sheikh Salim bin Sultan Al Qasimi,Q57164210,1868-04-14,1883-03
-+++,Sheikh Ibrahim bin Sultan Al Qasimi,,1869,1871
-->,Saqr bin Khalid Al Qasimi->Sheikh Saqr bin Khalid Al Qasimi,Q57164220,1883-03,1914
+---,Rashid bin Matar Al Qasimi,Q60785778,1727,1777
+---,Saqr bin Rashid Al Qasimi,Q57164232,1777,1803
+---,Sultan bin Saqr Al Qasimi,Q6800497,1803,1840
+---,Sultan bin Saqr Al Qasimi,Q6800497,1840,1866
+---,Saqr III bin Sultan al-Qasimi,Q12220103,1840,1840
+---,Khalid bin Sultan Al Qasimi,Q60785755,1866,1868-04-14
+---,Salim bin Sultan Al Qasimi,Q57164210,1868-04-14,1883-03
+---,Saqr bin Khalid Al Qasimi,Q57164220,1883-03,1914
 ->,Khalid bin Ahmad Al Qasimi->Sheikh Khalid bin Ahmad Al Qasimi,Q57164122,1914-04-03,1924-11-21
 ->,Sultan bin Saqr Al Qasimi II->Sheikh Sultan bin Saqr Al Qasimi II,Q57164266,1924-11-21,1951
 +++,Sheikh Muhammad bin Saqr Al Qasimi,,1951,1951-05
