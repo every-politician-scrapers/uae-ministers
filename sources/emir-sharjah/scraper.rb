@@ -23,9 +23,9 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def raw_combo_date
-      return super.sub('17', '17 June') if itemLabel.include? 'Aziz bin Muhammad Al Qasimi'
-
-      super.gsub(/\(.*?\)/, '').tidy
+      years = super.tidy
+      return years.sub('17', '17 June') if itemLabel.include? 'Aziz bin Muhammad Al Qasimi'
+      years =~  /^\d{4}$/ ? "#{years} - #{years}" : years
     end
   end
 end
