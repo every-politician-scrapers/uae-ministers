@@ -14,6 +14,9 @@ Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7400024,Saif bin Zayed Al Nahyan
 Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q7636761,Sultan bin Zayed bin Sultan Al Nahyan
 Q1059948,Khalifa bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
 Q1059948,Khalifa bin Zayed Al Nahyan,spouse,Q10781516,Shamsa bint Suhail Al Mazrouei
+Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16196176,Sultan bin Khalifa Al Nahyan
+Q10781516,Shamsa bint Suhail Al Mazrouei,child,Q16733119,Mohammed bin Khalifa Al Nahyan
+Q10781516,Shamsa bint Suhail Al Mazrouei,spouse,Q1059948,Khalifa bin Zayed Al Nahyan
 Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,father,Q57655,Mohammed bin Rashid Al Maktoum
 Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,mother,Q2257104,Hind bint Maktoum bin Juma Al-Maktoum
 Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum,sibling,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
@@ -65,6 +68,13 @@ Q2984620,Humaid bin Rashid Al Nuaimi,child,Q22279440,Sheikh Rashid bin Humaid Al
 Q2984620,Humaid bin Rashid Al Nuaimi,father,Q7294894,Rashid Bin Humaid Al Nuaimi
 Q2984620,Humaid bin Rashid Al Nuaimi,relative,Q1371101,Hamad bin Mohammed Al Sharqi
 Q2984620,Humaid bin Rashid Al Nuaimi,sibling,Q18702978,Fatima Bint Rashid Al Nuaimi
+Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1573260,Hamdan bin Zayed bin Sultan Al Nahyan
+Q4120127,Fatima bint Mubarak Al Ketbi,child,Q1951896,Mohammed bin Zayed Al Nahyan
+Q4120127,Fatima bint Mubarak Al Ketbi,child,Q556607,Mansour bin Zayed Al Nahyan
+Q4120127,Fatima bint Mubarak Al Ketbi,child,Q5688471,Hazza bin Zayed bin Sultan Al Nahyan
+Q4120127,Fatima bint Mubarak Al Ketbi,child,Q58301,Abdullah bin Zayed Al Nahyan
+Q4120127,Fatima bint Mubarak Al Ketbi,child,Q85804913,Tahnoun bin Zayed Al Nahyan
+Q4120127,Fatima bint Mubarak Al Ketbi,spouse,Q167846,Zayed bin Sultan Al Nahyan
 Q556607,Mansour bin Zayed Al Nahyan,father,Q167846,Zayed bin Sultan Al Nahyan
 Q556607,Mansour bin Zayed Al Nahyan,mother,Q4120127,Fatima bint Mubarak Al Ketbi
 Q556607,Mansour bin Zayed Al Nahyan,sibling,Q1059948,Khalifa bin Zayed Al Nahyan
@@ -74,6 +84,8 @@ Q556607,Mansour bin Zayed Al Nahyan,sibling,Q5688471,Hazza bin Zayed bin Sultan 
 Q556607,Mansour bin Zayed Al Nahyan,sibling,Q58301,Abdullah bin Zayed Al Nahyan
 Q556607,Mansour bin Zayed Al Nahyan,sibling,Q85804913,Tahnoun bin Zayed Al Nahyan
 Q556607,Mansour bin Zayed Al Nahyan,spouse,Q6746819,Manal bint Mohammed bin Rashid Al Maktoum
+Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,child,Q1059948,Khalifa bin Zayed Al Nahyan
+Q5679463,Hassa bint Mohammed bin Khalifa Al Nahyan,spouse,Q167846,Zayed bin Sultan Al Nahyan
 Q57655,Mohammed bin Rashid Al Maktoum,child,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum
 Q57655,Mohammed bin Rashid Al Maktoum,child,Q17403156,Majid bin Mohammed bin Rashid Al Maktoum
 Q57655,Mohammed bin Rashid Al Maktoum,child,Q3379198,Maitha bint Mohammed bin Rashid Al Maktoum
