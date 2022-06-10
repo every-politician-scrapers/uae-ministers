@@ -61,7 +61,7 @@
               "text": "In 1971, a Council of Ministers was formed in the Abu Dhabi Emirate by virtue of the provisions of Law No. (1) to reorganise the government apparatus."
             },
             {
-              "text": "But in 1974, the said law was superseded and substituted with Law No. (1), which organised the government apparatus, renaming the \"Council of Ministers\" as the \"Abu Dhabi Executive Council.\""
+              "text": "But in 1974, the said law was superseded and substituted with Law No. (1), which organised Abu Dhabi's government apparatus, renaming the \"Council of Ministers\" as the \"Abu Dhabi Executive Council.\""
             },
             {
               "text": "The Executive Council is chaired by Sheikh Mohammed bin Zayed Al Nahyan, president of the United Arab Emirates and ruler of Abu Dhabi and Supreme Commander of the UAE Armed Forces.",
@@ -76,6 +76,79 @@
               "text": "Its membership is formed by chairmen of the local government departments, some local authorities and other members appointed by the Ruler."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On Wednesday 13 September 2017 the council was reshuffled and new members were appointed, including: Sheikh Theyab bin Mohamed bin Zayed Al Nahyan, Falah Al Ahbabi and Mohammed Khalifa Al Mubarak."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On Monday 21 January 2019 the then President of the UAE, Sheikh Khalifa, approved a reorganisation which changed the members of the council:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "As part of this reorganization Sheikh Mohamed bin Zayed also set up a body affiliated with the council, the Abu Dhabi Strategic Affairs Committee, chaired by Sheikh Tahnoun bin Zayed Al Nahyan, and restructured the council's Executive Committee.",
+              "links": [
+                {
+                  "text": "Mohamed bin Zayed",
+                  "type": "internal",
+                  "page": "Mohamed bin Zayed Al Nahyan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Three members left the Council including Maj Gen Mohammed Al Rumaithi, Riyad Abdulrahman Al Mubarak and Dr Ali Al Nuaimi."
+          },
+          {
+            "text": "Two new members joined: Sara Awad Issa Musallam, Chairwoman of the Department of Education and Knowledge; and Maj Gen Faris Khalaf Al Mazrouei, the new Commander-in-Chief of Abu Dhabi Police."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "date": "2017-09-14",
+          "title": "President Sheikh Khalifa reshuffles Abu Dhabi Executive Council",
+          "url": "https://www.thenationalnews.com/uae/president-sheikh-khalifa-reshuffles-abu-dhabi-executive-council-1.628285",
+          "access-date": "2022-06-09",
+          "website": "The National",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-03-11",
+          "title": "New members of Abu Dhabi Executive Council sworn in before Sheikh Mohamed bin Zayed",
+          "url": "https://www.thenationalnews.com/uae/government/new-members-of-abu-dhabi-executive-council-sworn-in-before-sheikh-mohamed-bin-zayed-1.835434",
+          "access-date": "2022-06-09",
+          "website": "The National",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-01-21",
+          "title": "Sheikh Khalifa announces Abu Dhabi Executive Council reshuffle",
+          "url": "https://www.thenationalnews.com/uae/government/sheikh-khalifa-announces-abu-dhabi-executive-council-reshuffle-1.815974",
+          "access-date": "2022-06-09",
+          "website": "The National",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -86,7 +159,7 @@
         {
           "sentences": [
             {
-              "text": "As of 2022"
+              "text": "As of 2022 members included:"
             }
           ]
         }
@@ -94,20 +167,22 @@
       "lists": [
         [
           {
-            "text": "Ruler Of Abu Dhabi General Sheikh Mohammed bin Zayed Al Nahyan (Chairman of the Executive Council)",
+            "text": "Sheikh Mohamed bin Zayed Al Nahyan (President of the UAE, Chairman of the Executive Council)",
             "links": [
               {
+                "text": "Mohamed bin Zayed Al Nahyan",
                 "type": "internal",
                 "page": "Mohammed bin Zayed Al Nahyan"
               }
             ]
           },
           {
-            "text": "Sheikh Khalid bin Mohammed bin Zayed Al Nahyan (Member of the Executive Council, Chairman of Abu Dhabi Executive Office, Chairman of the Executive Committee)",
+            "text": "Sheikh Tahnoun bin Zayed Al Nahyan",
             "links": [
               {
+                "text": "Tahnoun bin Zayed Al Nahyan",
                 "type": "internal",
-                "page": "Khalid bin Mohammed bin Zayed Al Nahyan"
+                "page": "Tahnoun bin Zayed Al Nahyan (national security advisor)"
               }
             ]
           },
@@ -121,13 +196,25 @@
             ]
           },
           {
-            "text": "Sheikh Hamed bin Zayed Al Nahyan (Chairman of Abu Dhabi Crown Prince's Court)",
+            "text": "Sheikh Hamed bin Zayed Al Nahyan",
             "links": [
               {
                 "type": "internal",
                 "page": "Hamed bin Zayed Al Nahyan"
               }
             ]
+          },
+          {
+            "text": "Sheikh Khalid bin Mohammed bin Zayed Al Nahyan (Member of the Executive Council, Chairman of Abu Dhabi Executive Office, Chairman of the Executive Committee)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khalid bin Mohammed bin Zayed Al Nahyan"
+              }
+            ]
+          },
+          {
+            "text": "Sheikh Theyab bin Mohamed bin Zayed Al Nahyan (Chairman of Abu Dhabi Crown Prince's Court)"
           },
           {
             "text": "Sheikh Mohammed bin Khalifa bin Zayed Al Nahyan",
@@ -139,20 +226,11 @@
             ]
           },
           {
-            "text": "Sheikh Sultan bin Tahnoon Al Nahyan (Chairman of Transport Authority)",
+            "text": "Sheikh Sultan bin Tahnoon Al Nahyan",
             "links": [
               {
                 "type": "internal",
                 "page": "Sultan bin Tahnoon Al Nahyan"
-              }
-            ]
-          },
-          {
-            "text": "Dr. Ahmed Mubarak Al Mazrouei (Secretary-General of the Executive Council)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmed Mubarak Al Mazrouei"
               }
             ]
           },
@@ -166,41 +244,44 @@
             ]
           },
           {
-            "text": "Riyad Abdulrahman Al Mubarak (Chairman of the Department of Finance)"
+            "text": "Mohamed Khalifa Al Mubarak (Chairman of the Department of Culture and Tourism)"
           },
           {
-            "text": "Sheikh Abdulla Bin Mohamed Al Hamed (Chairman of Energy Authority)"
+            "text": "Dr. Mugheer Khamis Al Khaili (Chairman of the Department of Community Development)"
           },
           {
-            "text": "Dr. Mugheer Al Khaili (Chairman of Health Authority)",
+            "text": "Dr. Ahmed Mubarak Al Mazrouei (Secretary-General of the Executive Council)",
             "links": [
               {
                 "type": "internal",
-                "page": "Mugheer Al Khaili"
+                "page": "Ahmed Mubarak Al Mazrouei"
               }
             ]
           },
           {
-            "text": "Eng. Awaidha Murshed Al Marar (Chairman of Department of Municipal Affairs)",
+            "text": "Jassem Mohamed Bu Ataba Al Zaabi (Chairman of the Department of Finance)"
+          },
+          {
+            "text": "Eng. Awaidha Murshed Al Marar (Chairman of Energy Authority)"
+          },
+          {
+            "text": "Abdulla Bin Mohamed Al Hamed (Chairman of Health Authority)"
+          },
+          {
+            "text": "Falah Mohamed Al Ahbabi (Chairman of the Department of Municipalities and Transport)",
             "links": [
               {
-                "text": "Department of Municipal Affairs",
+                "text": "Department of Municipalities and Transport",
                 "type": "internal",
                 "page": "Department of Municipal Affairs (Abu Dhabi)"
               }
             ]
           },
           {
-            "text": "Ali Majed Al Mansouri (Chairman of Department of Economic Development)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ali Majed Al Mansouri"
-              }
-            ]
+            "text": "Mohammed Ali Al Shorafa Al Hammadi (Chairman of Abu Dhabi Department of Economic Development)"
           },
           {
-            "text": "Dr. Ali Rashid Al Noaimi (Director General of Abu Dhabi Education Council)"
+            "text": "Sara Awad Issa Musallam (Chairman of Abu Dhabi Department of Education and Knowledge)"
           }
         ]
       ],
