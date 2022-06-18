@@ -645,6 +645,10 @@
       ],
       "templates": [
         {
+          "description": "Cabinet in the United Arab Emirates",
+          "template": "short description"
+        },
+        {
           "date": "April 2013",
           "template": "use dmy dates"
         },
