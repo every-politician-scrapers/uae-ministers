@@ -658,6 +658,7 @@
             "12",
             "9"
           ],
+          "df": "y",
           "p": "1",
           "br": "1",
           "template": "date and age"
@@ -745,9 +746,6 @@
       "depth": 0,
       "templates": [
         {
-          "list": [
-            "33em"
-          ],
           "template": "reflist"
         }
       ]
