@@ -3032,7 +3032,7 @@
             "text": "Sheikha Mariam bint Mohamed bin Zayed Al Nahyan."
           },
           {
-            "text": "Sheikh Khaled bin Mohamed bin Zayed Al Nahyan Married to Sheikha Fatima bint Suroor Al Nahyan, and they have two daughters and one son (Sheikh Mohamed bin Khaled bin Mohamed bin Zayed Al Nahya)",
+            "text": "Sheikh Khaled bin Mohamed bin Zayed Al Nahyan Married to Sheikha Fatima bint Suroor Al Nahyan, and they have two daughters and one son (Sheikh Mohamed bin Khaled bin Mohamed bin Zayed Al Nahya).",
             "links": [
               {
                 "type": "internal",
@@ -3044,10 +3044,10 @@
             "text": "Sheikha Shamsa bint Mohamed bin Zayed Al Nahyan. Married to Sheikh Mohammed bin Hamad Al Nahyan. They have four children (Hessa, Zayed, Salama, and Fatima)."
           },
           {
-            "text": "Sheikh Theyab bin Mohamed bin Zayed Al Nahyan"
+            "text": "Sheikh Theyab bin Mohamed bin Zayed Al Nahyan."
           },
           {
-            "text": "Sheikh Hamdan bin Mohamed bin Zayed Al Nahyan Married To Sheikha Fakhra bint Khalifa bin Hamdan bin Mohamed Al Nahyan (November 2021)"
+            "text": "Sheikh Hamdan bin Mohamed bin Zayed Al Nahyan Married To Sheikha Fakhra bint Khalifa bin Hamdan bin Mohamed Al Nahyan (November 2021)."
           },
           {
             "text": "Sheikha Fatima bint Mohamed bin Zayed Al Nahyan. Married to Sheikh Nahyan bin Saif Al Nahyan. They have three sons (Mohammed, Saif, and Zayed)."
@@ -3059,13 +3059,13 @@
             "text": "Sheikh Zayed bin Mohamed bin Zayed Al Nahyan was born on October 24, 1995. Graduated from Royal Military Academy Sandhurst on December 2020."
           },
           {
-            "text": "Sheikha Hassa bint Mohamed bin Zayed Al Nahyan"
+            "text": "Sheikha Hassa bint Mohamed bin Zayed Al Nahyan."
           },
           {
-            "text": "Amina - adopted (daughter)"
+            "text": "Amina - adopted (daughter)."
           },
           {
-            "text": "Salha - adopted (daughter)"
+            "text": "Salha - adopted (daughter)."
           }
         ]
       ],
@@ -3234,7 +3234,7 @@
             ]
           },
           {
-            "text": "France: The Ordre national du Mérite awarded by President François Hollande (15 February 2013).",
+            "text": "France: Grand Croix of the Ordre national du Mérite awarded by President François Hollande (15 February 2013).",
             "links": [
               {
                 "type": "internal",
@@ -3247,7 +3247,16 @@
             ]
           },
           {
-            "text": "Germany: The Order of Merit of the Federal Republic of Germany awarded by Foreign Minister Frank-Walter Steinmeier (29 October 2008).",
+            "text": "France: Grand Croix of the Legion of Honour (19 July 2022).",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legion of Honour"
+              }
+            ]
+          },
+          {
+            "text": "Germany: Grand Croix of the Order of Merit of the Federal Republic of Germany awarded by Foreign Minister Frank-Walter Steinmeier (29 October 2008).",
             "links": [
               {
                 "type": "internal",
@@ -3260,7 +3269,7 @@
             ]
           },
           {
-            "text": "Kosovo: The Order of Independence awarded by President Atifete Jahjaga (21 April 2014).",
+            "text": "Kosovo: Medal of the Order of Independence awarded by President Atifete Jahjaga (21 April 2014).",
             "links": [
               {
                 "text": "Order of Independence",
@@ -3288,7 +3297,7 @@
             ]
           },
           {
-            "text": "Montenegro: The Order of the Montenegrin Grand Star awarded by President Filip Vujanović (12 December 2013).\"",
+            "text": "Montenegro: Grand Croix Order of the Montenegrin Grand Star awarded by President Filip Vujanović (12 December 2013).\"",
             "links": [
               {
                 "type": "internal",
@@ -3301,7 +3310,7 @@
             ]
           },
           {
-            "text": "Morocco: Medal of the Order of Muhammad awarded by King Mohammed VI (17 March 2015).",
+            "text": "Morocco: Collar of the Order of Muhammad awarded by King Mohammed VI (17 March 2015).",
             "links": [
               {
                 "type": "internal",
@@ -3351,6 +3360,13 @@
           "language": "pt",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.lemonde.fr/international/article/2022/07/19/honneurs-et-discretion-pour-la-visite-de-mbz_6135332_3210.html",
+          "title": "Honneurs et discrétion pour la visite de Mohammed Ben Zayed Al Nahyane, président des Emirats arabes unis",
+          "date": "2022-07-19",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://wam.ae/en/details/1395228219658",
