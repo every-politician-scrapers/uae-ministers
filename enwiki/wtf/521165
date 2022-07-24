@@ -4077,6 +4077,24 @@
               "text": "In 2022, the High Court of England and Wales ruled and mandated that Mohammed must not have direct contact with his children by Haya, or input into decision-making about them, because of his coercive and abusive behaviour which \"had emotionally and psychologically harmed their children\"."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In addition to Arabic, he also speaks English.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                },
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
