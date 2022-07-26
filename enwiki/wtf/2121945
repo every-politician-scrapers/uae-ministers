@@ -106,7 +106,19 @@
               "text": "He was entrusted with most day-to-day decision-making of the emirate of Abu Dhabi as the crown prince of Abu Dhabi."
             },
             {
-              "text": "Academics have characterized Mohamed as the strongman leader of an authoritarian regime."
+              "text": "Academics have characterized Mohamed as the strongman leader of an authoritarian regime.",
+              "links": [
+                {
+                  "text": "strongman",
+                  "type": "internal",
+                  "page": "Political strongman"
+                },
+                {
+                  "text": "authoritarian",
+                  "type": "internal",
+                  "page": "authoritarian"
+                }
+              ]
             },
             {
               "text": "In 2019, The New York Times named him as the most powerful Arab ruler and one of the most powerful men on Earth.",
@@ -178,6 +190,20 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Prime Minister",
+            "Mohammed bin Rashid Al Maktoum"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "Vice President",
+            "Mohammed bin Rashid Al Maktoum"
+          ],
+          "template": "labeldata"
+        },
+        {
           "spouse": "Salama bint Hamdan Al Nahyan",
           "from": "1981",
           "template": "marriage"
@@ -188,6 +214,13 @@
           "day": "11",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Education",
+            "Royal Military Academy Sandhurst"
+          ],
+          "template": "labeldata"
         },
         {
           "id": "mohamedbinzayed",
@@ -272,38 +305,13 @@
           }
         },
         {
-          "honorific_prefix": {
-            "text": "His Highness Sheikh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Highness"
-              },
-              {
-                "type": "internal",
-                "page": "Sheikh"
-              }
-            ]
-          },
-          "honorific_suffix": {
-            "text": "GCMG",
-            "links": [
-              {
-                "type": "internal",
-                "page": "GCMG"
-              }
-            ]
-          },
-          "native_name": {
-            "text": "محمد بن زايد آل نهيان"
-          },
           "image": {
             "text": "Mohamed bin Zayed Al Nahyan.jpg"
           },
           "caption": {
             "text": "Mohamed in 2021"
           },
-          "office": {
+          "succession": {
             "text": "3rd President of the United Arab Emirates",
             "links": [
               {
@@ -312,17 +320,8 @@
               }
             ]
           },
-          "primeminister": {
-            "text": "Mohammed bin Rashid Al Maktoum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mohammed bin Rashid Al Maktoum"
-              }
-            ]
-          },
-          "vicepresident": {
-            "text": "Mohammed bin Rashid Al Maktoum"
+          "reign": {
+            "text": "14 May 2022 – present"
           },
           "predecessor": {
             "text": "Khalifa bin Zayed Al Nahyan",
@@ -333,20 +332,19 @@
               }
             ]
           },
-          "term_start": {
-            "text": "14 May 2022"
-          },
-          "title2": {
-            "text": "Ruler of Abu Dhabi",
+          "succession1": {
+            "text": "Emir of Abu Dhabi",
             "links": [
               {
-                "text": "Ruler of Abu Dhabi",
                 "type": "internal",
-                "page": "List of rulers of individual Emirates of the United Arab Emirates"
+                "page": "Emir of Abu Dhabi"
               }
             ]
           },
-          "predecessor2": {
+          "reign1": {
+            "text": "13 May 2022 – present"
+          },
+          "predecessor1": {
             "text": "Khalifa bin Zayed Al Nahyan",
             "links": [
               {
@@ -355,13 +353,10 @@
               }
             ]
           },
-          "term_start2": {
-            "text": "13 May 2022"
-          },
           "spouse": {
             "text": "Salama bint Hamdan Al Nahyan (m. 1981)"
           },
-          "children": {
+          "issue": {
             "text": "9, including Khalid and two adopted daughters",
             "links": [
               {
@@ -402,15 +397,6 @@
               {
                 "type": "internal",
                 "page": "Trucial States"
-              }
-            ]
-          },
-          "education": {
-            "text": "Royal Military Academy Sandhurst",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Royal Military Academy Sandhurst"
               }
             ]
           }

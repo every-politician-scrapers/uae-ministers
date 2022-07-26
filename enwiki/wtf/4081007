@@ -37,6 +37,10 @@
       ],
       "templates": [
         {
+          "description": "Ruler of the Emirate of Fujairah",
+          "template": "short description"
+        },
+        {
           "list": [
             "Mohammed bin Hamad bin Mohammed Al Sharqi"
           ],
