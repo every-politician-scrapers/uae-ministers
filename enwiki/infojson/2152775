@@ -1,0 +1,27 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of the United Arab Emirates"
+      ],
+      "stated_as": "Deputy Prime Minister of the United Arab Emirates"
+    },
+    "P580": "2009-05-10",
+    "P1365": {
+      "links": [
+        "Sultan bin Zayed bin Sultan Al Nahyan",
+        "Hamdan bin Zayed bin Sultan Al Nahyan"
+      ],
+      "stated_as": "Sultan bin Zayed Al Nahyan Hamdan bin Zayed Al Nahyan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government of the United Arab Emirates"
+      ],
+      "stated_as": "Minister of Presidential Affairs of the United Arab Emirates"
+    },
+    "P580": "2009-11-01"
+  }
+]

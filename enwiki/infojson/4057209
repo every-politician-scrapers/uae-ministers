@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Government of the United Arab Emirates"
+      ],
+      "stated_as": "Minister of Information and Culture of the United Arab Emirates"
+    },
+    "P580": "1997-03-23",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Khalfan bin Mohammed Al Roumi"
+    },
+    "P582": "2006-02-09",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Position abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government of the United Arab Emirates"
+      ],
+      "stated_as": "Minister of Foreign Affairs and International Cooperation of the United Arab Emirates"
+    },
+    "P580": "2006-02-09",
+    "P1365": {
+      "links": [
+        "Rashid Abdullah Al Nuaimi"
+      ],
+      "stated_as": "Rashid Abdullah Al Nuaimi"
+    }
+  }
+]
