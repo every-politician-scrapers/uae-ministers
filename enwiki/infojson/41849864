@@ -1,0 +1,49 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of State for Federal National Council Affairs, United Arab Emirates"
+      ],
+      "stated_as": "Minister of State for Federal National Council Affairs"
+    },
+    "P580": "2016-02-10",
+    "P1365": {
+      "links": [
+        "Anwar Gargash"
+      ],
+      "stated_as": "Anwar Gargash"
+    },
+    "P582": "2017-10-19",
+    "P1366": {
+      "links": [
+        "Abdul Rahman Mohammed Al Owais"
+      ],
+      "stated_as": "Abdul Rahman Mohammed Al Owais"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Culture and Knowledge Development"
+    },
+    "P580": "2017-10-20",
+    "P1365": {
+      "links": [
+        "Nahyan bin Mubarak Al Nahyan"
+      ],
+      "stated_as": "Nahyan bin Mubarak Al Nahyan"
+    },
+    "P582": "2020-07-04"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Culture and Youth"
+    },
+    "P580": "2020-07-05"
+  }
+]

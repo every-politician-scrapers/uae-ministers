@@ -7,24 +7,18 @@
   "commands": "Commander-in-Chief\nChief of Staff of the Armed Forces\nDeputy Chief of Staff of the Armed Forces\nCommander of the Air Force and Air Defence"
 }
 {
-  "honorific_prefix": "His Highness Sheikh",
-  "honorific_suffix": "GCMG",
-  "native_name": "محمد بن زايد آل نهيان",
-  "office": "3rd President of the United Arab Emirates",
-  "primeminister": "Mohammed bin Rashid Al Maktoum",
-  "vicepresident": "Mohammed bin Rashid Al Maktoum",
+  "succession": "3rd President of the United Arab Emirates",
+  "reign": "14 May 2022 – present",
   "predecessor": "Khalifa bin Zayed Al Nahyan",
-  "term_start": "14 May 2022",
-  "title2": "Ruler of Abu Dhabi",
-  "predecessor2": "Khalifa bin Zayed Al Nahyan",
-  "term_start2": "13 May 2022",
+  "succession1": "Emir of Abu Dhabi",
+  "reign1": "13 May 2022 – present",
+  "predecessor1": "Khalifa bin Zayed Al Nahyan",
   "spouse": "Salama bint Hamdan Al Nahyan (m. 1981)",
-  "children": "9, including Khalid and two adopted daughters",
+  "issue": "9, including Khalid and two adopted daughters",
   "father": "Zayed bin Sultan Al Nahyan",
   "mother": "Fatima bint Mubarak Al Ketbi",
   "birth_date": "March 11, 1961",
-  "birth_place": "Al Ain, Trucial States",
-  "education": "Royal Military Academy Sandhurst"
+  "birth_place": "Al Ain, Trucial States"
 }
 {
   "royal name": "President of the United Arab Emirates",

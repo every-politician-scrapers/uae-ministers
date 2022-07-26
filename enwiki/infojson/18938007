@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Ruler of Dubai"
+    },
+    "P580": "2008-02-01",
+    "P1365": {
+      "links": [
+        "Hamdan bin Mohammed Al Maktoum"
+      ],
+      "stated_as": "Hamdan bin Mohammed Al Maktoum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of the Court of HH Ruler of Dubai"
+    },
+    "P580": "2021-05-15",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of the United Arab Emirates"
+      ],
+      "stated_as": "Deputy Prime Minister of the United Arab Emirates"
+    },
+    "P580": "2021-09-25",
+    "P1365": {
+      "links": [
+        "Hamdan bin Zayed bin Sultan Al Nahyan",
+        "Sultan bin Zayed bin Sultan Al Nahyan"
+      ],
+      "stated_as": "Hamdan bin Zayed Al Nahyan & Sultan bin Zayed bin Sultan Al Nahyan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Finance of the United Arab Emirates"
+    },
+    "P580": "2021-09-25",
+    "P1365": {
+      "links": [
+        "Hamdan bin Rashid Al Maktoum"
+      ],
+      "stated_as": "Hamdan bin Rashid Al Maktoum"
+    }
+  }
+]

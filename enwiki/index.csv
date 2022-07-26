@@ -1,16 +1,16 @@
-pageid,title
-521165,Mohammed bin Rashid Al Maktoum
-2121945,Mohamed bin Zayed Al Nahyan
-2152775,Mansour bin Zayed Al Nahyan
-3283727,Humaid bin Rashid Al Nuaimi III
-4057209,Abdullah bin Zayed Al Nahyan
-4081007,Hamad bin Mohammed Al Sharqi
-8906287,Sultan bin Muhammad Al-Qasimi
-18938007,Maktoum bin Mohammed Al Maktoum
-20934729,Saud bin Rashid Al Mualla
-22599255,Saif bin Zayed Al Nahyan
-34840133,Saud bin Saqr Al Qasimi
-41849864,Noura Al Kaabi
-47294483,Abdul Rahman Mohammed Al Owais
-68190157,Ahmad Belhoul Al Falasi
-70796853,Salama bint Hamdan Al Nahyan
+pageid,title,wikidata,label
+521165,Mohammed bin Rashid Al Maktoum,Q57655,Mohammed bin Rashid Al Maktoum
+2121945,Mohamed bin Zayed Al Nahyan,Q1951896,Mohammed bin Zayed Al Nahyan
+2152775,Mansour bin Zayed Al Nahyan,Q556607,Mansour bin Zayed Al Nahyan
+3283727,Humaid bin Rashid Al Nuaimi III,Q2984620,Humaid bin Rashid Al Nuaimi
+4057209,Abdullah bin Zayed Al Nahyan,Q58301,Abdullah bin Zayed Al Nahyan
+4081007,Hamad bin Mohammed Al Sharqi,Q1371101,Hamad bin Mohammed Al Sharqi
+8906287,Sultan bin Muhammad Al-Qasimi,Q754778,Sultan bin Mohamed Al-Qasimi
+18938007,Maktoum bin Mohammed Al Maktoum,Q12244819,Maktoum bin Mohammed Bin Rashid Al Maktoum
+20934729,Saud bin Rashid Al Mualla,Q347571,Saud bin Rashid Al Mu'alla
+22599255,Saif bin Zayed Al Nahyan,Q7400024,Saif bin Zayed Al Nahyan
+34840133,Saud bin Saqr Al Qasimi,Q1368398,Saud bin Saqr al Qasimi
+41849864,Noura Al Kaabi,Q16733485,Noura Al Kaabi
+47294483,Abdul Rahman Mohammed Al Owais,Q20740526,Abdul Rahman Mohammed Al Oweis
+68190157,Ahmad Belhoul Al Falasi,Q107596056,Ahmad Belhoul Al Falasi
+70796853,Salama bint Hamdan Al Nahyan,Q112039299,Salama bint Hamdan Al Nahyan

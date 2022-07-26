@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Abu Dhabi Police"
+      ],
+      "stated_as": "Commander of the Abu Dhabi Police"
+    },
+    "P580": "1995",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Thani Obeid Khamees Al Rumaithi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government of the United Arab Emirates"
+      ],
+      "stated_as": "Minister of the Interior of the United Arab Emirates"
+    },
+    "P580": "2004-11-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Mohamed bin Saeed Al Badi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "[[List of Prime Ministers of the United Arab Emirates#List of Deputy Prime Ministers of the United Arab Emirates (1971-Present)|Deputy Prime Minister of the United Arab Emirates]]"
+    },
+    "P580": "2009-05-10",
+    "P1365": {
+      "links": [
+        "Hamdan bin Zayed bin Sultan Al Nahyan",
+        "Sultan bin Zayed bin Sultan Al Nahyan"
+      ],
+      "stated_as": "Hamdan bin Zayed Al Nahyan & Sultan bin Zayed bin Sultan Al Nahyan"
+    }
+  }
+]
