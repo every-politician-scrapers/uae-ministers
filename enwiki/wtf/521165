@@ -89,7 +89,7 @@
               "text": "Land which is owned by him is managed as an asset of the state."
             },
             {
-              "text": "There is a blurred line between the assets of the Government of Dubai and those of the ruling Al Maktoum family."
+              "text": "There is a blurred line between the assets of the government of Dubai and those of the ruling Al Maktoum family."
             },
             {
               "text": "He oversaw the growth of Dubai into a global city, as well as the launch of a number of government-owned enterprises including Emirates Airline, DP World, and the Jumeirah Group.",
@@ -100,18 +100,16 @@
                   "page": "global city"
                 },
                 {
-                  "text": "Emirates Airline",
                   "type": "internal",
-                  "page": "Emirates (airline)"
+                  "page": "Emirates Airline"
                 },
                 {
                   "type": "internal",
                   "page": "DP World"
                 },
                 {
-                  "text": "Jumeirah Group",
                   "type": "internal",
-                  "page": "Jumeirah (hotel chain)"
+                  "page": "Jumeirah Group"
                 }
               ]
             },
@@ -125,7 +123,7 @@
               ]
             },
             {
-              "text": "Sheikh Mohammed has overseen the development of certain projects in Dubai including the creation of a technology park, a free economic zone, Dubai Internet City, Dubai Media City, the Dubai International Finance Centre, the Palm Islands and the Burj Al Arab hotel.",
+              "text": "Mohammed has overseen the development of certain projects in Dubai including the creation of a technology park, a free economic zone, Dubai Internet City, Dubai Media City, the Dubai International Finance Centre, the Palm Islands and the Burj Al Arab hotel.",
               "links": [
                 {
                   "type": "internal",
@@ -136,9 +134,8 @@
                   "page": "Dubai Media City"
                 },
                 {
-                  "text": "Dubai International Finance Centre",
                   "type": "internal",
-                  "page": "Dubai International Financial Centre"
+                  "page": "Dubai International Finance Centre"
                 },
                 {
                   "type": "internal",
@@ -164,8 +161,13 @@
         {
           "sentences": [
             {
-              "text": "Mohammed is the absolute ruler of Dubai and Prime Minister of UAE, a position appointed by the president.",
+              "text": "Mohammed is the absolute ruler of Dubai and the prime minister of the UAE, a position appointed by the president.",
               "links": [
+                {
+                  "text": "absolute ruler",
+                  "type": "internal",
+                  "page": "absolute ruler"
+                },
                 {
                   "text": "the president",
                   "type": "internal",
@@ -198,7 +200,7 @@
         {
           "sentences": [
             {
-              "text": "On 5 March 2020, a British court ruled that on the balance of probabilities, Mohammed had abducted two of his daughters and had threatened his former wife, the Jordanian princess Haya bint Hussein.",
+              "text": "On 5 March 2020, a British court ruled that on the balance of probabilities, Mohammed had abducted two of his daughters, Shamsa and Latifa, and had threatened his former wife, the Jordanian princess Haya bint Hussein.",
               "links": [
                 {
                   "text": "on the balance of probabilities",
@@ -206,15 +208,6 @@
                   "page": "Burden of proof (law)",
                   "anchor": "Standard of proof in the United Kingdom"
                 },
-                {
-                  "type": "internal",
-                  "page": "Haya bint Hussein"
-                }
-              ]
-            },
-            {
-              "text": "Allegedly two of his daughters, Shamsa and Latifa, were forcibly medicated while held in Dubai under Sheikh Mohammed's orders since 2000 and 2018, respectively.",
-              "links": [
                 {
                   "text": "Shamsa",
                   "type": "internal",
@@ -224,8 +217,15 @@
                   "text": "Latifa",
                   "type": "internal",
                   "page": "Latifa bint Mohammed Al Maktoum (born 1985)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Haya bint Hussein"
                 }
               ]
+            },
+            {
+              "text": "Allegedly, Shamsa and Latifa were forcibly medicated while held in Dubai under Sheikh Mohammed's orders since 2000 and 2018, respectively."
             },
             {
               "text": "On 16 February 2021, BBC's Panorama broadcast a documentary featuring Sheikha Latifa's video messages that she made secretly under enforced detention in Dubai on the orders of Sheikh Mohammed.",
@@ -318,6 +318,62 @@
           "template": "birth date and age"
         },
         {
+          "list": [
+            "Assumed office",
+            "5 January 2006"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "President",
+            "Khalifa bin Zayed Al Nahyan (2006–2022) Mohamed bin Zayed Al Nahyan (2022–present)"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "Assumed office",
+            "11 February 2006"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "President",
+            "Khalifa bin Zayed Al Nahyan Mohamed bin Zayed Al Nahyan"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "Deputy",
+            "Hamdan bin Zayed bin Sultan Al Nahyan (2006–2009)\n\nSultan bin Zayed bin Sultan Al Nahyan (2006–2009)\n\nMansour bin Zayed Al Nahyan (2009–present)\n\nSaif bin Zayed Al Nahyan (2009–present)\n\nMaktoum bin Mohammed Al Maktoum (2021–present)"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "Assumed office",
+            "9 December 1971"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "President",
+            "Zayed bin Sultan Al Nahyan (1971–2004)\n\nKhalifa bin Zayed Al Nahyan (2004–2022)\n\nMohamed bin Zayed Al Nahyan (2022–present)"
+          ],
+          "template": "labeldata"
+        },
+        {
+          "list": [
+            "In office",
+            "13 – 14 May 2022"
+          ],
+          "template": "labeldata"
+        },
+        {
           "lang": "ar",
           "text": "Muḥammad bin Rāshid ʾĀl Maktūm",
           "template": "transl"
@@ -355,21 +411,8 @@
           }
         },
         {
-          "native_name": {
-            "text": "محمد بن راشد آل مكتوم"
-          },
-          "honorific_prefix": {
-            "text": "His Highness Sheikh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Highness"
-              },
-              {
-                "type": "internal",
-                "page": "Sheikh"
-              }
-            ]
+          "full name": {
+            "text": "Mohamed bin Rashid bin Saeed bin Maktoum Al Maktoum"
           },
           "image": {
             "text": "Mohammed bin Rashid Al Maktoum (15-02-2021).jpg"
@@ -393,7 +436,7 @@
               ]
             }
           },
-          "children": {
+          "issue": {
             "text": "See list",
             "links": [
               {
@@ -408,9 +451,6 @@
                 "See list"
               ]
             }
-          },
-          "birth_name": {
-            "text": "Mohamed bin Rashid bin Saeed bin Maktoum Al Maktoum"
           },
           "father": {
             "text": "Rashid bin Saeed Al Maktoum",
@@ -448,7 +488,7 @@
               }
             ]
           },
-          "office": {
+          "succession": {
             "text": "Vice President of the United Arab Emirates",
             "links": [
               {
@@ -456,22 +496,6 @@
                 "page": "Vice President of the United Arab Emirates"
               }
             ]
-          },
-          "president": {
-            "text": "Khalifa bin Zayed Al Nahyan (2006–2022)\n\nMohamed bin Zayed Al Nahyan (2022–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khalifa bin Zayed Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Mohamed bin Zayed Al Nahyan"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "5 January 2006"
           },
           "predecessor": {
             "text": "Maktoum bin Rashid Al Maktoum",
@@ -482,7 +506,7 @@
               }
             ]
           },
-          "office1": {
+          "succession1": {
             "text": "4th Prime Minister of the United Arab Emirates",
             "links": [
               {
@@ -491,51 +515,10 @@
               }
             ]
           },
-          "president1": {
-            "text": "Khalifa bin Zayed Al Nahyan Mohamed bin Zayed Al Nahyan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Khalifa bin Zayed Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Mohamed bin Zayed Al Nahyan"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Hamdan bin Zayed bin Sultan Al Nahyan (2006–2009)\n\nSultan bin Zayed bin Sultan Al Nahyan (2006–2009)\n\nMansour bin Zayed Al Nahyan (2009–present)\n\nSaif bin Zayed Al Nahyan (2009–present)\n\nMaktoum bin Mohammed Al Maktoum (2021–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hamdan bin Zayed bin Sultan Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Sultan bin Zayed bin Sultan Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Mansour bin Zayed Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Saif bin Zayed Al Nahyan"
-              },
-              {
-                "type": "internal",
-                "page": "Maktoum bin Mohammed Al Maktoum"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 February 2006"
-          },
           "predecessor1": {
             "text": "Maktoum bin Rashid Al Maktoum"
           },
-          "office2": {
+          "succession2": {
             "text": "Minister of Defence",
             "links": [
               {
@@ -543,18 +526,6 @@
                 "page": "Minister of Defence"
               }
             ]
-          },
-          "president2": {
-            "text": "Zayed bin Sultan Al Nahyan (1971–2004)\n\nKhalifa bin Zayed Al Nahyan (2004–2022)\n\nMohamed bin Zayed Al Nahyan (2022–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zayed bin Sultan Al Nahyan"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 December 1971"
           },
           "predecessor2": {
             "text": "Position established",
@@ -564,7 +535,7 @@
               ]
             }
           },
-          "office3": {
+          "succession3": {
             "text": "Ruler of Dubai",
             "links": [
               {
@@ -573,8 +544,8 @@
               }
             ]
           },
-          "term_start3": {
-            "text": "4 January 2006"
+          "reign3": {
+            "text": "4 January 2006 – present"
           },
           "predecessor3": {
             "text": "Maktoum bin Rashid Al Maktoum",
@@ -585,7 +556,25 @@
               }
             ]
           },
-          "office4": {
+          "successor3": {
+            "text": "Hamdan bin Mohammed Al Maktoum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hamdan bin Mohammed Al Maktoum"
+              }
+            ]
+          },
+          "suc-type3": {
+            "text": "Heir apparent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heir apparent"
+              }
+            ]
+          },
+          "succession4": {
             "text": "Acting President of the United Arab Emirates",
             "links": [
               {
@@ -611,12 +600,6 @@
                 "page": "Mohamed bin Zayed Al Nahyan"
               }
             ]
-          },
-          "term_start4": {
-            "text": "13 May 2022"
-          },
-          "term_end4": {
-            "text": "14 May 2022"
           }
         }
       ],
