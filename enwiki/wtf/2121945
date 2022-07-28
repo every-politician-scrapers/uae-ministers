@@ -340,11 +340,11 @@
             ]
           },
           "succession1": {
-            "text": "Emir of Abu Dhabi",
+            "text": "Ruler of Abu Dhabi",
             "links": [
               {
                 "type": "internal",
-                "page": "Emir of Abu Dhabi"
+                "page": "Ruler of Abu Dhabi"
               }
             ]
           },
@@ -2571,50 +2571,6 @@
               "text": "Together, the officials were accused of giving Barrack the task to push the Emirati interests with the US."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 17 July 2022, Sheikh Mohammed visited France to meet President Emmanuel Macron.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "France"
-                },
-                {
-                  "type": "internal",
-                  "page": "Emmanuel Macron"
-                }
-              ]
-            },
-            {
-              "text": "It was his first foreign travel since becoming the UAE President."
-            },
-            {
-              "text": "However, a group of human rights organizations, including International Federation for Human Rights (FIDH), the Gulf Center for Human Rights (GCHR) and the Ligue des droits de l’Homme, wrote and open letter to Macron, highlighting the human rights situation in the UAE.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "International Federation for Human Rights"
-                },
-                {
-                  "type": "internal",
-                  "page": "Gulf Center for Human Rights"
-                },
-                {
-                  "text": "Ligue des droits de l’Homme",
-                  "type": "internal",
-                  "page": "Human Rights League (France)"
-                }
-              ]
-            },
-            {
-              "text": "Drawing attention to the repressive dictatorship practiced in the Emirates, they urged the French President to raise the issue of severe human rights violations in the UAE with Sheikh Mohammed during the meeting."
-            },
-            {
-              "text": "Besides, the letter also asked Macron to end the arms supply to the UAE, in wake of the Yemen war."
-            }
-          ]
         }
       ],
       "references": [
@@ -2658,22 +2614,6 @@
           "date": "28 September 2021",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://www.lemonde.fr/en/international/article/2022/07/17/mohammed-bin-zayed-a-prodigal-and-controversial-ally-for-paris_5990401_4.html",
-          "title": "UAE President Mohammed bin Zayed arrives in Paris for controversial visit",
-          "access-date": "17 July 2022",
-          "website": "Le Monde",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.fidh.org/en/region/europe-central-asia/france/france-macron-united-arab-emirates-ben-zayed-visit",
-          "title": "Visit to France by the President of the United Arab Emirates: Open letter to Emmanuel Macron",
-          "access-date": "18 July 2022",
-          "website": "International Federation for Human Rights",
-          "template": "citation",
-          "type": "web"
         },
         {
           "date": "November 2020",
